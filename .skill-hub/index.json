@@ -1,0 +1,14 @@
+[
+  {
+    "name": "apply-popup-assets",
+    "description": "将 src/assets/ 中的素材图片应用到对应弹窗组件的代码中。当用户说素材已放好、图片已放好、资源已准备好、帮我更新素材到代码时使用。"
+  },
+  {
+    "name": "create-popup",
+    "description": "基于模板创建弹窗组件并自动注册到 modal store。当用户要求创建弹窗、新增弹窗组件、添加 Pop 弹窗时使用。"
+  },
+  {
+    "name": "yapi-mock-generator",
+    "description": "从 YApi (docs.dui88.com) 接口文档自动生成 mock 数据和 API 定义。当用户提供 YApi 链接、要求生成 mock、创建 mock 文件、更新 mock 接口、或提到 YApi 接口文档时使用。"
+  }
+]
